@@ -1,7 +1,6 @@
 ﻿
-Here is a polished **README.md** for your engineering/technology roadmap repository:
 
-````markdown
+
 # 🌐 Engineering & Future Technology Roadmap
 
 A comprehensive roadmap covering **200+ engineering, computing, biomedical, medical, scientific, and emerging technology fields**, along with high-impact project ideas for building advanced real-world systems.
